@@ -1,7 +1,8 @@
 import cv2
+url = "http://192.168.217.212:8080/video"
 
-# Open the default camera (0 for built-in webcam, change to 1 or other for external cameras)
-cap = cv2.VideoCapture(0)
+# Open webcam (0 for default camera)
+cap = cv2.VideoCapture(url)
 
 # Check if the webcam is opened correctly
 if not cap.isOpened():
