@@ -1,6 +1,9 @@
 # VizAi
 
 #Slides- https://docs.google.com/presentation/d/1u80asFoXy3CAD9kbjpGT07EIE81hVsMWVG9PRRlS4aQ/edit?usp=sharing
+
+#UI- https://www.figma.com/design/pklM3epxNVo4HSGisRJAL9/Untitled?node-id=0-1&p=f&t=FlBFSLUj88XjPNYQ-0
+
 # FOOD SAGE - Processed Food Ingredient Analyzer
 
 ## Overview
