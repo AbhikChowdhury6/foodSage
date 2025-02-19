@@ -1,0 +1,33 @@
+
+Product Safety Analysis:
+
+Overall Product Classification:
+overall_status
+red        5
+yellow     4
+unknown    1
+Name: count, dtype: int64
+
+Ingredient Counts:
+Total Red Ingredients: 5
+Total Yellow Ingredients: 10
+Total Green Ingredients: 18
+Total Unknown Ingredients: 437
+
+Products by Safety Level:
+
+Red Products (Contains banned ingredients):
+['H‑E‑B Sugar Frosted Flakes Cereal', 
+'H‑E‑B Original Pancake & Waffle Syrup', 
+'H‑E‑B Twisters Sandwich Cookies - Family-Size', 
+'H‑E‑B Kettle Cooked Potato Chips – Jalapeño', 
+"Hershey's Special Dark Mildly Sweet Chocolate XL Candy Bar"]
+
+Yellow Products (Contains cautionary ingredients):
+['H‑E‑B Reduced Sodium Chicken Noodle Condensed Soup', 
+'Higher Harvest by H‑E‑B Low Carb Lifestyle Wheat Sliced Bread', 
+'H‑E‑B Thin Potato Chips - Original, Party Size', 
+'H‑E‑B Organics Fruit & Grain Bars - Strawberry, Value Pack']
+
+Green Products (Contains only safe ingredients):
+[]
