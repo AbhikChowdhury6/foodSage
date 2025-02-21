@@ -1,0 +1,86 @@
+#H‑E‑B Sugar Frosted Flakes Cereal
+test_1 = [
+    "Corn", "Sugar", "Barley malt extract", "Salt",  
+    "Mono- and diglycerides", "Ascorbic acid (Vitamin C)", "Nicotinamide (Vitamin B3)",  
+    "Pyridoxine hydrochloride (Vitamin B6)", "Riboflavin (Vitamin B2)",  
+    "Thiamine mononitrate (Vitamin B1)", "Retinyl acetate (Vitamin A)",  
+    "Folic acid", "Cyanocobalamin (Vitamin B12)", "Cholecalciferol (Vitamin D)"
+]
+
+#H‑E‑B Reduced Sodium Chicken Noodle Condensed Soup
+test_2 = [
+    "Chicken broth", "Enriched egg noodles", "Wheat flour", "Eggs", "Egg whites",  
+    "Niacin", "Ferrous sulfate (Iron)", "Thiamine mononitrate", "Riboflavin", "Folic acid",  
+    "Cooked white chicken meat", "Water", "Rice starch", "Sea salt", "Carrots",  
+    "Potato starch", "Potassium chloride", "Chicken fat", "Yeast extract", "Dextrose",  
+    "Natural flavor", "Salt", "Lactic acid", "Onion powder",  
+    "Beta carotene (Color)", "Ascorbic acid", "Bioengineered food ingredient"
+]
+
+#H‑E‑B Organics Spaghetti
+test_3 = [
+    "Organic durum wheat semolina"
+]
+
+#H‑E‑B Original Pancake & Waffle Syrup
+test_4 = [
+    "Corn syrup", "Sugar", "Water", "Natural and artificial maple flavor",  
+    "Salt", "Cellulose gum", "Caramel coloring",  
+    "Sodium benzoate (Preservative)", "Sorbic acid (Preservative)",  
+    "Sodium hexametaphosphate (Preservative)", "Bioengineered food ingredient"
+]
+
+#Higher Harvest by H‑E‑B Low Carb Lifestyle Wheat Sliced Bread
+test_5 = [
+    "Resistant wheat starch", "Water", "Wheat gluten", "Yeast", "Wheat protein isolate",  
+    "Allulose", "Oat fiber", "Wheat bran", "Inulin", "Soybean oil", "Salt", "Vinegar",  
+    "Cultured wheat flour", "Rowan berry fruit extract", "Tapioca flour", "Guar gum",  
+    "Potassium chloride", "Wheat starch", "Dextrose", "Natural flavor", "Citric acid",  
+    "Ascorbic acid", "Natamycin (A preservative)", "Sesame", "Bioengineered food ingredient"
+]
+
+#H‑E‑B Thin Potato Chips - Original, Party Size
+test_6 = [
+    "Potatoes", "Vegetable oil", "Cottonseed oil", "Corn oil", "Soybean oil",  
+    "Safflower oil", "Sunflower oil", "Salt"
+]
+
+#H‑E‑B Twisters Sandwich Cookies - Family-Size
+test_7 = [
+    "Sugar", "Wheat flour", "Palm fat", "Cocoa powder processed with alkali",  
+    "Invert sugar", "Corn starch", "Sodium bicarbonate", "Salt",  
+    "Natural flavor", "Soy lecithin"
+]
+
+#H‑E‑B Kettle Cooked Potato Chips – Jalapeño
+test_8 = [
+    "Potatoes", "Vegetable oil", "Cottonseed oil", "Sunflower oil", "Safflower oil",  
+    "Salt", "Dextrose", "Maltodextrin", "Monosodium glutamate", "Onion powder",  
+    "Cheddar cheese", "Milk", "Cheese cultures", "Salt", "Enzymes", "Jalapeño pepper powder",  
+    "Natural flavors", "Spices", "Paprika", "Tomato powder", "Sour cream", "Cultured cream",  
+    "Nonfat milk", "Sugar", "Garlic powder", "Whey", "Modified corn starch", "Sodium diacetate",  
+    "Colors", "Yellow 5 lake", "Blue 1 lake", "Disodium inosinate", "Disodium guanylate",  
+    "Paprika extract", "Artificial flavors", "Bioengineered food ingredient"
+]
+
+#H‑E‑B Organics Fruit & Grain Bars - Strawberry, Value Pack
+test_9 = [
+    "Organic strawberry flavored filling", "Organic glucose syrup", "Organic cane sugar",  
+    "Organic strawberry puree", "Organic apple puree", "Pectin", "Citric acid",  
+    "Organic color (Organic concentrated elderberry juice)", "Natural flavor", "Tricalcium citrate",  
+    "Potassium carbonate", "Organic whole oat flour", "Organic enriched flour", "Organic wheat flour",  
+    "Organic malted barley flour", "Niacin", "Reduced iron", "Thiamine mononitrate", "Riboflavin",  
+    "Folic acid", "Organic soybean oil", "Organic sunflower oil", "Organic isomalto-oligosaccharides",  
+    "Organic whole wheat flour", "Organic whole rolled oats", "Organic glycerin", "Organic molasses",  
+    "Organic invert sugar", "Vitamins and minerals", "Calcium carbonate", "Niacinamide (Vitamin B3)",  
+    "Zinc oxide", "Pyridoxine hydrochloride (Vitamin B6)", "Thiamine hydrochloride (Vitamin B1)",  
+    "Palmitate (Vitamin A)", "Folic acid", "Leavening", "Sodium acid pyrophosphate", "Sodium bicarbonate",  
+    "Corn starch", "Monocalcium phosphate", "Organic guar gum", "Organic natural flavor", "Organic honey",  
+    "Organic soy lecithin", "Salt", "Xanthan gum"
+]
+
+#Hershey's Special Dark Mildly Sweet Chocolate XL Candy Bar
+test_10 = [
+    "Sugar", "Chocolate", "Cocoa butter", "Milk fat", "Cocoa processed with alkali",  
+    "Lecithin (Soy)", "PGPR", "Natural flavor"
+]
