@@ -40,7 +40,7 @@ We categorize ingredients into three risk levels:
 <div class="risk-categories" style="overflow-x: auto;">
   <table style="width: 100%; min-width: 280px; margin: 0 auto;">
     <tr>
-      <td style="padding: 10px; text-align: center; vertical-align: top;"><span style="color:#e74c3c">⚠️ <b>High Risk</b></span><br>Ingredients that are generally considered harmful or controversial.</td>
+      <td style="padding: 10px; text-align: center; vertical-align: top;"><span style="color:#e74c3c">❗️ <b>High Risk</b></span><br>Ingredients that are generally considered harmful or controversial.</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center; vertical-align: top;"><span style="color:#f39c12">⚠️ <b>Moderate Risk</b></span><br>Ingredients that may be of concern depending on quantity, processing, or context.</td>
