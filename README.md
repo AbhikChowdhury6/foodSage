@@ -5,7 +5,7 @@
 
 ### 
 
-<img src="Docs/powerpoint/pp_title.png" width="100%" max-width="700px" alt="FOOD SAGE App" style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
+<img src="Docs/powerpoint/pp_title.png" width="70%" max-width="700px" alt="FOOD SAGE App" style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
 
 [📊 View Presentation Slides](https://docs.google.com/presentation/d/1u80asFoXy3CAD9kbjpGT07EIE81hVsMWVG9PRRlS4aQ/edit?usp=sharing) | [🎨 Explore Hi-Res Designs](https://www.figma.com/design/pklM3epxNVo4HSGisRJAL9/Untitled?node-id=0-1&p=f&t=FlBFSLUj88XjPNYQ-0)
 
@@ -15,10 +15,10 @@
 
 ## 💡 The Vision
 
-**FOOD SAGE** focuses on identifying and extracting the ingredients section from processed food packaging. The extracted ingredients are then categorized into three levels of potential harmfulness. By leveraging computer vision and optical character recognition (OCR) techniques, the system analyzes the ingredient lists and assesses their relative health impact.
+**FOOD SAGE** is revolutionizing how consumers interact with processed foods. By simply scanning a product's ingredient list, our application instantly analyzes and categorizes ingredients based on potential health impacts.
 
 <div align="center">
-  <img src="Docs/app_mockup/ui_Collection.png" width="100%" max-width="650px" alt="UI layout for the FoodSage App" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="Docs/app_mockup/ui_Collection.png" width="70%" max-width="650px" alt="UI layout for the FoodSage App" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 </div>
 
 ## 🚀 What We've Built
@@ -30,7 +30,7 @@ FOOD SAGE leverages advanced computer vision and machine learning to:
 Our advanced OCR system identifies and isolates ingredient lists from food packaging with precision.
 
 <div align="center">
-  <img src="footage/OCRLabelTest.gif" width="100%" max-width="550px" alt="OCR Label Test Demo" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="footage/OCRLabelTest.gif" width="70%" max-width="550px" alt="OCR Label Test Demo" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 </div>
 
 ### 🔍 Categorize Ingredients
@@ -40,7 +40,7 @@ We categorize ingredients into three risk levels:
 <div class="risk-categories" style="overflow-x: auto;">
   <table style="width: 100%; min-width: 280px; margin: 0 auto;">
     <tr>
-      <td style="padding: 10px; text-align: center; vertical-align: top;"><span style="color:#e74c3c">❗️ <b>High Risk</b></span><br>Ingredients that are generally considered harmful or controversial.</td>
+      <td style="padding: 10px; text-align: center; vertical-align: top;"><span style="color:#e74c3c">⚠️ <b>High Risk</b></span><br>Ingredients that are generally considered harmful or controversial.</td>
     </tr>
     <tr>
       <td style="padding: 10px; text-align: center; vertical-align: top;"><span style="color:#f39c12">⚠️ <b>Moderate Risk</b></span><br>Ingredients that may be of concern depending on quantity, processing, or context.</td>
@@ -50,6 +50,17 @@ We categorize ingredients into three risk levels:
     </tr>
   </table>
 </div>
+
+<style>
+@media (min-width: 768px) {
+  .risk-categories table tr {
+    display: flex;
+  }
+  .risk-categories table td {
+    flex: 1;
+  }
+}
+</style>
 
 ### 🔮 Enable Further Analysis
 
