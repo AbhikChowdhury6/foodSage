@@ -15,7 +15,7 @@
 
 ## 💡 The Vision
 
-**FOOD SAGE** is revolutionizing how consumers interact with processed foods. By simply scanning a product's ingredient list, our application instantly analyzes and categorizes ingredients based on potential health impacts.
+**FOOD SAGE** Food Sage focuses on identifying and extracting the ingredients section from processed food packaging. The extracted ingredients are then categorized into three levels of potential harmfulness. By leveraging computer vision and optical character recognition (OCR) techniques, the system analyzes the ingredient lists and assesses their relative health impact.
 
 <div align="center">
   <img src="Docs/app_mockup/ui_Collection.png" width="100%" max-width="650px" alt="UI layout for the FoodSage App" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
