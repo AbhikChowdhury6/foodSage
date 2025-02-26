@@ -51,17 +51,6 @@ We categorize ingredients into three risk levels:
   </table>
 </div>
 
-<style>
-@media (min-width: 768px) {
-  .risk-categories table tr {
-    display: flex;
-  }
-  .risk-categories table td {
-    flex: 1;
-  }
-}
-</style>
-
 ### 🔮 Enable Further Analysis
 
 We've laid the groundwork for future enhancements, such as:
